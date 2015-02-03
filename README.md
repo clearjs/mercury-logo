@@ -2,14 +2,25 @@
 
 > Experimenting with fonts in one of proposed logos for mercury.
 
-1. The original proposal.
-2. Using the [Equity B][2] font.
-3. Using the [Concourse T3][3] font.
-4. Using the [Fira Sans][4] font.
+#### The original proposal: ####
+
+![mercury-logo1](https://raw.githubusercontent.com/clearjs/mercury-logo/master/mercury-logo1.png)
+
+#### Using the [Equity B][2] font: ####
+
+![mercury-logo2](https://raw.githubusercontent.com/clearjs/mercury-logo/master/mercury-logo2.png)
+
+#### Using the [Concourse T3][3] font: ####
+
+![mercury-logo3](https://raw.githubusercontent.com/clearjs/mercury-logo/master/mercury-logo3.png)
+
+#### Using the [Fira Sans][4] font: ####
+
+![mercury-logo4](https://raw.githubusercontent.com/clearjs/mercury-logo/master/mercury-logo4.png)
 
 This is just the first draft. I didn't play with size, position, italics, color, etc.
 
-Those aspects will need to be addressed if one of alternatives proves to be interesting.
+Those aspects will need to be addressed if one of the alternatives proves to be interesting.
 
 Equity and Concourse are commercial fonts, I've got a license to use them. Fira Sans is open-source.
 
